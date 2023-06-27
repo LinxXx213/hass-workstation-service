@@ -1,1 +1,0 @@
-This folder should be used for referenced libraries that are not managed by Nuget.
